@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="CursoProwayXamarin.UI.CadastroCliente">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Nome"/>
+            <Entry Placeholder="Nome" x:Name="nome"/>
+            <Label Text="CPF"/>
+            <Entry Placeholder="CPF" x:Name="cpf"/>
+            <Label Text="Endereço"/>
+            <Entry Placeholder="Endereço" x:Name="endereco"/>
+            <Label Text="CEP"/>
+            <Entry Placeholder="CEP" x:Name="cep"/>
+            <Label Text="Data De Nascimento"/>
+            <Entry Placeholder="Data De Nascimento" x:Name="dataDeNascimento"/>
+            <Button Clicked="SalvarCliente" Text="Salvar" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

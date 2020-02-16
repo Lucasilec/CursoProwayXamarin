@@ -1,0 +1,5 @@
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin.shared\bin\Debug\CursoProwayXamarin.shared.dll
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin.shared\bin\Debug\CursoProwayXamarin.shared.pdb
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin.shared\obj\Debug\CursoProwayXamarin.shared.csprojAssemblyReference.cache
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin.shared\obj\Debug\CursoProwayXamarin.shared.dll
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin.shared\obj\Debug\CursoProwayXamarin.shared.pdb

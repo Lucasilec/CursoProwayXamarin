@@ -1,0 +1,17 @@
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\bin\Debug\netstandard2.0\CursoProwayXamarin.deps.json
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\bin\Debug\netstandard2.0\CursoProwayXamarin.dll
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\bin\Debug\netstandard2.0\ref\CursoProwayXamarin.dll
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\bin\Debug\netstandard2.0\CursoProwayXamarin.pdb
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\obj\Debug\netstandard2.0\CursoProwayXamarin.csprojAssemblyReference.cache
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\obj\Debug\netstandard2.0\UI\CadastroCliente.xaml.g.cs
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\obj\Debug\netstandard2.0\CursoProwayXamarin.AssemblyInfoInputs.cache
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\obj\Debug\netstandard2.0\CursoProwayXamarin.AssemblyInfo.cs
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\obj\Debug\netstandard2.0\CursoProwayXamarin.dll
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\obj\Debug\netstandard2.0\ref\CursoProwayXamarin.dll
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\obj\Debug\netstandard2.0\CursoProwayXamarin.pdb
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\bin\Debug\netstandard2.0\CursoProwayXamarin.shared.dll
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\bin\Debug\netstandard2.0\CursoProwayXamarin.shared.pdb
+C:\Users\67624\source\repos\CursoProwayXamarin\CursoProwayXamarin\CursoProwayXamarin\obj\Debug\netstandard2.0\CursoProwayXamarin.csproj.CopyComplete
